@@ -20,10 +20,12 @@ Allow users to edit their own property listings: include validation to ensure da
 Provide an option for users to delete their listings.
 
 ## Search and Filters:
-Implement a search bar to allow users to search for properties based on keywords like location, type, or price range. Include filters for refining search results, such as filtering by property type, number of bedrooms, bathrooms, etc.
+Implement a search bar to allow users to search for properties based on keywords like location, type, or price range.
+Include filters for refining search results, such as filtering by property type, number of bedrooms, bathrooms, etc.
 
 ## Image Upload:
-Allow users to upload images for their property listings. Display these images in a gallery or carousel on the listing details page.
+Allow users to upload images for their property listings.
+Display these images in a gallery or carousel on the listing details page.
 
 ## User Dashboard
 Provide a user dashboard where users can manage their property listings, view favorites, and edit their profile.
@@ -35,5 +37,5 @@ This website is responsive, making it accessible and user-friendly across variou
 Implement thorough error handling and validation on the server and client sides to ensure data integrity and a smooth user experience.
 
 ## Pagination
-If you have a large number of listings, implement pagination to improve page load times and the user experience.
+For a large number of listings, implementing of pagination to improve page load times and the user experience.
 
